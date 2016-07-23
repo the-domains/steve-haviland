@@ -1,8 +1,8 @@
 layout_spectrum: 0.2236842
-color:
-  saturation: 0.4899749
-  brandStrength: 0.2785693
-  lightness: 0.9304512
-  rhythmicContrast: 0.7506266
 typography_spectrum: 0.7531328
+color:
+  saturation: 1
+  lightness: 1
+  brandStrength: 0.2785693
+  rhythmicContrast: 1
 name: Steve Haviland
