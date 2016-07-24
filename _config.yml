@@ -1,14 +1,28 @@
-layout_spectrum: 0.2236842
-color:
-  saturation: 1
-  lightness: 1
-  brandStrength: 0.9592732
-  brandColors:
-    - '#000000'
-    - '#678C7B'
-    - '#2F3533'
-    - '#F3DABE'
-    - '#805E42'
-  rhythmicContrast: 1
-typography_spectrum: 0.7531328
 name: Steve Haviland
+favicon: null
+layout_spectrum: 0.2236842
+typography_spectrum: 0.7531328
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#00013a'
+    - '#ffcc00'
+    - '#adcddd'
+    - '#b3376c'
+    - '#8e7f99'
+  brandStrength: 0.9592732
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
+purpose: []
